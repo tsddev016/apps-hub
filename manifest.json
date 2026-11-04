@@ -1,0 +1,64 @@
+{
+  "apps": [
+    {
+      "id": "backrooms-cade-a-porta",
+      "nome": "Backrooms: Cad\u00ea a Porta?",
+      "descricao": "Jogo de terror com 5 levels, easter eggs e modo online.",
+      "tecnologia": "Godot 4.3",
+      "versao": "v13",
+      "atualizado": "2026-10-28",
+      "tipo": "pasta",
+      "executavel": "",
+      "url_zip": "",
+      "url_web": ""
+    },
+    {
+      "id": "btc-miner-desktop",
+      "nome": "BTC Miner Desktop (painel XMRig)",
+      "descricao": "Painel para minerar Monero (RandomX) controlando o XMRig.",
+      "tecnologia": "Python / tkinter",
+      "versao": "em etapas",
+      "atualizado": "2026-11-02",
+      "tipo": "python",
+      "executavel": "btc_miner.py",
+      "url_zip": "",
+      "url_web": ""
+    },
+    {
+      "id": "jogo-brooklyn",
+      "nome": "Jogo 2K (Brooklyn)",
+      "descricao": "Jogo 3D em 3\u00aa pessoa no Brooklyn, gangue fict\u00edcia '2K'.",
+      "tecnologia": "Unity",
+      "versao": "planejamento",
+      "atualizado": "2026-10-27",
+      "tipo": "pasta",
+      "executavel": "",
+      "url_zip": "",
+      "url_web": ""
+    },
+    {
+      "id": "loja-tss",
+      "nome": "Loja TSS",
+      "descricao": "Loja de jogos com painel admin (Backrooms e Ashfall).",
+      "tecnologia": "Web / Vercel",
+      "versao": "em produ\u00e7\u00e3o",
+      "atualizado": "2026-11-03",
+      "tipo": "web",
+      "executavel": "",
+      "url_zip": "",
+      "url_web": "https://tss-store.vercel.app"
+    },
+    {
+      "id": "recuperador-celular",
+      "nome": "Recuperador de Celular Quebrado",
+      "descricao": "V\u00ea a tela do celular, copia arquivos, contatos, SMS e chamadas.",
+      "tecnologia": "Python / tkinter",
+      "versao": "v2",
+      "atualizado": "2026-11-04",
+      "tipo": "python",
+      "executavel": "recuperador_celular.py",
+      "url_zip": "",
+      "url_web": ""
+    }
+  ]
+}
